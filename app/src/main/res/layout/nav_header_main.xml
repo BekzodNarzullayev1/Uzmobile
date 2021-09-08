@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_120sdp"
+    android:gravity="center"
+    android:background="@color/blue"
+    android:orientation="vertical">
+    <TextView
+        android:text="@string/header_title"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_16sdp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:layout_marginTop="2dp"
+        android:background="@color/dark_blue"
+        android:layout_width="@dimen/_120sdp"
+        android:layout_height="2dp"/>
+    <androidx.cardview.widget.CardView
+        android:backgroundTint="@color/white"
+        app:cardCornerRadius="@dimen/_8sdp"
+        android:layout_marginTop="8dp"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_40sdp">
+        <LinearLayout
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:textColor="@color/blue"
+                android:textSize="@dimen/_5sdp"
+                android:text="UZMOBILE"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:textSize="@dimen/_10sdp"
+        android:layout_marginTop="6dp"
+        android:textColor="@color/white"
+        android:text="@string/header_subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

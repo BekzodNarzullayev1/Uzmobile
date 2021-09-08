@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Uzmobile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="balance">Balans</string>
+    <string name="operator">Operator</string>
+    <string name="news">Yangiliklar</string>
+    <string name="settings">Sozlamalar</string>
+
+    <string name="title_home">MILLIY OPERATOR</string>
+    <string name="ussd_home">USSD</string>
+    <string name="status_home">Tarif</string>
+    <string name="service_home">Xizmat</string>
+    <string name="min_home">Minut</string>
+    <string name="net_home">Internet</string>
+    <string name="sms_home">SMS</string>
+    <string name="header_title">UzMobile</string>
+    <string name="header_subtitle">Milliy operator</string>
+    <string name="tg_channel">Telegram kanal</string>
+    <string name="call_with_uz">Biz bilan aloqa</string>
+    <string name="share">Ulashish</string>
+    <string name="about_us">Biz haqimizda</string>
+    <string name="title_ussd">USSD kodlar</string>
+    <string name="title_status">Tariflar</string>
+    <string name="check_status">Tarifni tekshirish</string>
+    <string name="title_service">Xizmatlar</string>
+    <string name="title_time">Daqiqalar</string>
+    <string name="check_time">Vaqtni tekshirish</string>
+    <string name="title_internet">Internet Paketlar</string>
+    <string name="check_internet">Trafikni tekshirish</string>
+    <string name="title_sms">SMS paketlar</string>
+    <string name="check_sms">SMS ni tekshirish</string>
+    <string name="pay_price">Abonent to\'lovi</string>
+    <string name="more_btn">Batafsil</string>
+    <string name="accept_btn">Ulanish</string>
+
+</resources>

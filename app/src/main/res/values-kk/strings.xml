@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uzmobile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="balance">Баланс</string>
+    <string name="operator">Оператор</string>
+    <string name="news">Янгилик</string>
+    <string name="settings">Созлама</string>
+
+    <string name="title_home">МИЛЛИЙ ОПЕРAТОР</string>
+    <string name="ussd_home">УССД</string>
+    <string name="status_home">Тариф</string>
+    <string name="service_home">Хизмат</string>
+    <string name="min_home">Минут</string>
+    <string name="net_home">Интернет</string>
+    <string name="sms_home">СМС</string>
+    <string name="header_title">УзМобиле</string>
+    <string name="header_subtitle">Миллий оператор</string>
+    <string name="tg_channel">Телеграм канал</string>
+    <string name="call_with_uz">Биз билан алоқа</string>
+    <string name="share">Улашиш</string>
+    <string name="about_us">Биз ҳақимизда</string>
+    <string name="title_ussd">УССД кодлар</string>
+    <string name="title_status">Тарифлар</string>
+    <string name="check_status">Тарифни текшириш</string>
+    <string name="title_service">Хизматлар</string>
+    <string name="title_time">Дақиқалар</string>
+    <string name="check_time">Вақтни текшириш</string>
+    <string name="title_internet">Интернет Пакетлар</string>
+    <string name="check_internet">Трафикни текшириш</string>
+    <string name="title_sms">СМС пакетлар</string>
+    <string name="check_sms">СМС ни текшириш</string>
+    <string name="pay_price">Aбонент то\ълови</string>
+    <string name="more_btn">Батафсил</string>
+    <string name="accept_btn">Уланиш</string>
+</resources>

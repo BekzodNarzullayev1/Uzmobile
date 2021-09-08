@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uzmobile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="balance">Баланс</string>
+    <string name="operator">Оператор</string>
+    <string name="news">Новости</string>
+    <string name="settings">Настройки</string>
+
+    <string name="title_home">НАЦИОНАЛЬНЫЙ ОПЕРАТОР</string>
+    <string name="ussd_home">УССД</string>
+    <string name="status_home">Тариф</string>
+    <string name="service_home">Услуга</string>
+    <string name="min_home">Мунит</string>
+    <string name="net_home">Интернет</string>
+    <string name="sms_home">СМС</string>
+    <string name="header_title">УзМобиле</string>
+    <string name="header_subtitle">Национальный оператор</string>
+    <string name="tg_channel">Телеграм канал</string>
+    <string name="call_with_uz">Связаться с нами</string>
+    <string name="share">Поделиться</string>
+    <string name="about_us">O нас</string>
+    <string name="title_ussd">УССД коды</string>
+    <string name="title_status">Тарифы</string>
+    <string name="check_status">Проверка тарифов</string>
+    <string name="title_service">Услуги</string>
+    <string name="title_time">Минуты</string>
+    <string name="check_time">Проверить время</string>
+    <string name="title_internet">Интернет-пакеты</string>
+    <string name="check_internet">Проверка трафика</string>
+    <string name="title_sms">СМС пакеты</string>
+    <string name="check_sms">Проверить СМС</string>
+    <string name="pay_price">Абонентская плата</string>
+    <string name="more_btn">Подробнее</string>
+    <string name="accept_btn">Подключить</string>
+</resources>

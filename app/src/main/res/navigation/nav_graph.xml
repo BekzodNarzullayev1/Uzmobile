@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.uzmobile.fragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/operatorFragment"
+        android:name="com.example.uzmobile.fragments.OperatorFragment"
+        android:label="fragment_operator"
+        tools:layout="@layout/fragment_operator" />
+    <fragment
+        android:id="@+id/settingFragment"
+        android:name="com.example.uzmobile.fragments.SettingFragment"
+        android:label="fragment_setting"
+        tools:layout="@layout/fragment_setting" />
+    <fragment
+        android:id="@+id/bannerFragment"
+        android:name="com.example.uzmobile.fragments.BannerFragment"
+        android:label="fragment_banner"
+        tools:layout="@layout/fragment_banner" />
+    <fragment
+        android:id="@+id/internetPackageFragment"
+        android:name="com.example.uzmobile.fragments.InternetPackageFragment"
+        android:label="fragment_internet_package"
+        tools:layout="@layout/fragment_internet_package" />
+    <fragment
+        android:id="@+id/messageFragment"
+        android:name="com.example.uzmobile.fragments.MessageFragment"
+        android:label="fragment_message"
+        tools:layout="@layout/fragment_message" />
+    <fragment
+        android:id="@+id/statusFragment"
+        android:name="com.example.uzmobile.fragments.StatusFragment"
+        android:label="fragment_status"
+        tools:layout="@layout/fragment_status" />
+    <fragment
+        android:id="@+id/ussdFragment"
+        android:name="com.example.uzmobile.fragments.UssdFragment"
+        android:label="fragment_ussd"
+        tools:layout="@layout/fragment_ussd" />
+    <fragment
+        android:id="@+id/serviceFragment"
+        android:name="com.example.uzmobile.fragments.ServiceFragment"
+        android:label="fragment_service"
+        tools:layout="@layout/fragment_service" />
+    <fragment
+        android:id="@+id/timeFragment"
+        android:name="com.example.uzmobile.fragments.TimeFragment"
+        android:label="fragment_time"
+        tools:layout="@layout/fragment_time" />
+</navigation>
